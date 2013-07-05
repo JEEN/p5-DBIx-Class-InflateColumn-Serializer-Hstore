@@ -55,5 +55,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/JEEN/p5-DBIx-Class-InflateColumn-Serializer-Hstore/issues"
+      },
+      "homepage" : "https://github.com/JEEN/p5-DBIx-Class-InflateColumn-Serializer-Hstore",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/JEEN/p5-DBIx-Class-InflateColumn-Serializer-Hstore.git",
+         "web" : "https://github.com/JEEN/p5-DBIx-Class-InflateColumn-Serializer-Hstore"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "Jeen Lee <aiatejin@gmail.com>"
+   ]
 }
